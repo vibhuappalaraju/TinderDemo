@@ -22,7 +22,8 @@ The following **stretch** user stories are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![tinderdemo](https://user-images.githubusercontent.com/19617642/47684405-ccade980-dba0-11e8-9a53-56a820eb6f69.gif)
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
